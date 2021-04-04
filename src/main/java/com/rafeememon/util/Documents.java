@@ -1,4 +1,4 @@
-package com.rafeememon;
+package com.rafeememon.util;
 
 import java.io.File;
 import java.io.IOException;

@@ -1,9 +1,12 @@
-package com.rafeememon;
+package com.rafeememon.gcr2r2r;
 
 import java.math.BigDecimal;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Node;
+
+import com.rafeememon.util.Documents;
+import com.rafeememon.util.Nodes;
 
 public class Main {
 
